@@ -15,8 +15,13 @@
                     },
                     {
                         href: '/',
-                        title: 'Dashboard',
+                        title: 'Overview',
                         icon: 'fa fa-user'
+                    },
+                    {
+                        href: '/data',
+                        title: 'Data',
+                        icon: 'fa fa-file'
                     },
                     {
                         href: '/About',
@@ -28,11 +33,6 @@
                                 title: 'Sub Link'
                             }
                         ]
-                    },
-                    {
-                        href: '/data',
-                        title: 'Data',
-                        icon: 'fa fa-data'
                     },
                 ]
             }
